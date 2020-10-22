@@ -2,7 +2,7 @@
 
 # Avatarify
 
-Avatars for video calls - set up for Windows.
+Avatars for video calls - set up for Windows, updated for Python 3.8
 
 Based on:
 - [Avatarify](https://github.com/alievk/avatarify) adapted for Windows.
@@ -29,7 +29,7 @@ Based on:
 
 1. Setup `avatarify` conda environment with all required dependencies. Open your miniconda command prompt, navigate to the avatarify-windows folder and run:
 ```install.bat```
-2. Now execute ```run.bat``` - you should now see the application running, and two windows will appear, if everything is working correctly.
+2. Now execute ```run.bat``` - you should now see the application running, and two windows will appear, if everything is working correctly. Ensure your webcam is not already in use.
 3. To output to webcam, download and install [OBS](http://obsproject.com)
 4. Download and install the latest Windows release of [OBS-VirtualCam](https://github.com/CatxFish/obs-virtual-cam/releases)
 5. Reboot.
