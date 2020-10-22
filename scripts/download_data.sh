@@ -1,5 +1,6 @@
 #!/bin/bash
 
+# alternative command
 # vox-adv-cpk-wget.pth.tar (https://drive.google.com/file/d/1L8P-hpBhZi8Q_1vP2KlQ4N6dvlzpYBvZ/view)
 echo "Downloading model's weights (vox-adv-cpk.pth.tar)"
 
